@@ -17,3 +17,6 @@ Linked to the API is located below:
 Link to the App is located below.
 It is served on Heroku so it will take a minute before the content loads:
 [https://githubjobs-react.herokuapp.com/](https://githubjobs-react.herokuapp.com/)
+
+
+Credit:  WebDevSimplified Youtube channel
