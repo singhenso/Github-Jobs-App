@@ -1,0 +1,15 @@
+body {
+    background-color: #f6f8fa;
+}
+
+.card-body {
+    background-color: var(--color-bg-primary);
+    border: 1px solid var(--color-border-primary);
+    border-radius: 6px;
+}
+
+.btn-primary {
+    background-color: #0366d6;
+    border-color: #0366d6;
+
+}
