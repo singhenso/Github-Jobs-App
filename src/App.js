@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import useFetchJobs from './useFetchJobs'
-import { Container } from 'react-bootstrap'
-import Job from './Job'
+import useFetchJobs from './useFetchJobs';
+import { Container } from 'react-bootstrap';
+import Job from './Job';
 import JobsPagination from './JobsPagination';
 import SearchForm from './SearchForm';
-import logo from './img/logo.svg'
-import './App.css'
+import logo from './img/logo.svg';
+import './App.css';
 
 function App() {
   const [params, setParams] = useState({})
